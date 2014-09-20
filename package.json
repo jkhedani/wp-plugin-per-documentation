@@ -1,8 +1,8 @@
 {
-  "name": "codex",
+  "name": "per",
   "version": "0.1.0",
   "description": "A WordPress Plugin aimed at making documentation on your site easier!",
-  "main": "codex.php",
+  "main": "per.php",
   "author": "Justin Hedani",
   "license": "MIT",
   "repository": {
